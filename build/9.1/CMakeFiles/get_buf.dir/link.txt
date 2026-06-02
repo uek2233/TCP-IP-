@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/get_buf.dir/get_buf.c.o -o ../bin/9.1/get_buf 

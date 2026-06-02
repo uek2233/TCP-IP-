@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_selecterv.dir/echo_selecterv.c.o -o ../bin/12.1/echo_selecterv 

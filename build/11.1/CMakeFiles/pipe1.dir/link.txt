@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/pipe1.dir/pipe1.c.o -o ../bin/11.1/pipe1 

@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_mpclnt.dir/echo_mpclnt.c.o -o ../bin/10.4/echo_mpclnt 

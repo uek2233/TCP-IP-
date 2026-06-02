@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/remove_zombie.dir/remove_zombie.c.o -o ../bin/10.3/remove_zombie 

@@ -1,0 +1,7 @@
+# Environment variables used by build.sh and optionally exported to CMake.
+# 修改为你的编译器和头文件路径。
+export CC=${CC:-gcc}
+export C_INCLUDE_PATH=${C_INCLUDE_PATH:-/usr/include}
+
+# 下面是可选的额外编译器参数。
+export CFLAGS=${CFLAGS:--O2 -Wall -Wno-unused-variable -Wno-unused-result}

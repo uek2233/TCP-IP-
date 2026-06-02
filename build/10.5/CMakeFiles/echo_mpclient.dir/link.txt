@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_mpclient.dir/echo_mpclient.c.o -o ../bin/10.5/echo_mpclient 

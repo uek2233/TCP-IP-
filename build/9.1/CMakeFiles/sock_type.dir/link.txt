@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/sock_type.dir/sock_type.c.o -o ../bin/9.1/sock_type 

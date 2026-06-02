@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/news_sender.dir/news_sender.c.o -o ../bin/14.1/news_sender 

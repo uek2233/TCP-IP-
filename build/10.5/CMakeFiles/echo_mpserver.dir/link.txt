@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_mpserver.dir/echo_mpserver.c.o -o ../bin/10.5/echo_mpserver 
