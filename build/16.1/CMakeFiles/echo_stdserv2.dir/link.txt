@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_stdserv2.dir/echo_stdserv2.c.o -o ../bin/16.1/echo_stdserv2 

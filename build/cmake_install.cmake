@@ -60,6 +60,12 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/root/TCP-IP/build/13.2/cmake_install.cmake")
   include("/root/TCP-IP/build/14.1/cmake_install.cmake")
   include("/root/TCP-IP/build/14.2/cmake_install.cmake")
+  include("/root/TCP-IP/build/15.1/cmake_install.cmake")
+  include("/root/TCP-IP/build/15.2/cmake_install.cmake")
+  include("/root/TCP-IP/build/16.1/cmake_install.cmake")
+  include("/root/TCP-IP/build/17.1/cmake_install.cmake")
+  include("/root/TCP-IP/build/17.2/cmake_install.cmake")
+  include("/root/TCP-IP/build/18.1/cmake_install.cmake")
 
 endif()
 

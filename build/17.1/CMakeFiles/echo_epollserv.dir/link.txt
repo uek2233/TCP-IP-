@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_epollserv.dir/echo_epollserv.c.o -o ../bin/17.1/echo_epollserv 

@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/echo_stdclnt2.dir/echo_stdclnt2.c.o -o ../bin/16.1/echo_stdclnt2 

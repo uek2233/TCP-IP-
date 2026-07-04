@@ -33,7 +33,13 @@ set(SUBDIRS
     13.2
     14.1
     14.2
-)
+    15.1
+    15.2
+    16.1
+    17.1
+    17.2
+    18.1
+    )
 foreach(subdir IN LISTS SUBDIRS)
   add_subdirectory(${subdir})
 endforeach()

@@ -571,6 +571,227 @@ news_receiver_brd/fast:
 	$(MAKE) $(MAKESILENT) -f 14.2/CMakeFiles/news_receiver_brd.dir/build.make 14.2/CMakeFiles/news_receiver_brd.dir/build
 .PHONY : news_receiver_brd/fast
 
+#=============================================================================
+# Target rules for targets named desto
+
+# Build rule for target.
+desto: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 desto
+.PHONY : desto
+
+# fast build rule for target.
+desto/fast:
+	$(MAKE) $(MAKESILENT) -f 15.1/CMakeFiles/desto.dir/build.make 15.1/CMakeFiles/desto.dir/build
+.PHONY : desto/fast
+
+#=============================================================================
+# Target rules for targets named todes
+
+# Build rule for target.
+todes: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 todes
+.PHONY : todes
+
+# fast build rule for target.
+todes/fast:
+	$(MAKE) $(MAKESILENT) -f 15.1/CMakeFiles/todes.dir/build.make 15.1/CMakeFiles/todes.dir/build
+.PHONY : todes/fast
+
+#=============================================================================
+# Target rules for targets named echo_stdclnt
+
+# Build rule for target.
+echo_stdclnt: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_stdclnt
+.PHONY : echo_stdclnt
+
+# fast build rule for target.
+echo_stdclnt/fast:
+	$(MAKE) $(MAKESILENT) -f 15.2/CMakeFiles/echo_stdclnt.dir/build.make 15.2/CMakeFiles/echo_stdclnt.dir/build
+.PHONY : echo_stdclnt/fast
+
+#=============================================================================
+# Target rules for targets named echo_stdserv
+
+# Build rule for target.
+echo_stdserv: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_stdserv
+.PHONY : echo_stdserv
+
+# fast build rule for target.
+echo_stdserv/fast:
+	$(MAKE) $(MAKESILENT) -f 15.2/CMakeFiles/echo_stdserv.dir/build.make 15.2/CMakeFiles/echo_stdserv.dir/build
+.PHONY : echo_stdserv/fast
+
+#=============================================================================
+# Target rules for targets named echo_stdserv2
+
+# Build rule for target.
+echo_stdserv2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_stdserv2
+.PHONY : echo_stdserv2
+
+# fast build rule for target.
+echo_stdserv2/fast:
+	$(MAKE) $(MAKESILENT) -f 16.1/CMakeFiles/echo_stdserv2.dir/build.make 16.1/CMakeFiles/echo_stdserv2.dir/build
+.PHONY : echo_stdserv2/fast
+
+#=============================================================================
+# Target rules for targets named echo_stdclnt2
+
+# Build rule for target.
+echo_stdclnt2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_stdclnt2
+.PHONY : echo_stdclnt2
+
+# fast build rule for target.
+echo_stdclnt2/fast:
+	$(MAKE) $(MAKESILENT) -f 16.1/CMakeFiles/echo_stdclnt2.dir/build.make 16.1/CMakeFiles/echo_stdclnt2.dir/build
+.PHONY : echo_stdclnt2/fast
+
+#=============================================================================
+# Target rules for targets named echo_epollserv
+
+# Build rule for target.
+echo_epollserv: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_epollserv
+.PHONY : echo_epollserv
+
+# fast build rule for target.
+echo_epollserv/fast:
+	$(MAKE) $(MAKESILENT) -f 17.1/CMakeFiles/echo_epollserv.dir/build.make 17.1/CMakeFiles/echo_epollserv.dir/build
+.PHONY : echo_epollserv/fast
+
+#=============================================================================
+# Target rules for targets named echo_EPLTserv
+
+# Build rule for target.
+echo_EPLTserv: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_EPLTserv
+.PHONY : echo_EPLTserv
+
+# fast build rule for target.
+echo_EPLTserv/fast:
+	$(MAKE) $(MAKESILENT) -f 17.2/CMakeFiles/echo_EPLTserv.dir/build.make 17.2/CMakeFiles/echo_EPLTserv.dir/build
+.PHONY : echo_EPLTserv/fast
+
+#=============================================================================
+# Target rules for targets named echo_EPETserv
+
+# Build rule for target.
+echo_EPETserv: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 echo_EPETserv
+.PHONY : echo_EPETserv
+
+# fast build rule for target.
+echo_EPETserv/fast:
+	$(MAKE) $(MAKESILENT) -f 17.2/CMakeFiles/echo_EPETserv.dir/build.make 17.2/CMakeFiles/echo_EPETserv.dir/build
+.PHONY : echo_EPETserv/fast
+
+#=============================================================================
+# Target rules for targets named thread1
+
+# Build rule for target.
+thread1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 thread1
+.PHONY : thread1
+
+# fast build rule for target.
+thread1/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/thread1.dir/build.make 18.1/CMakeFiles/thread1.dir/build
+.PHONY : thread1/fast
+
+#=============================================================================
+# Target rules for targets named thread2
+
+# Build rule for target.
+thread2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 thread2
+.PHONY : thread2
+
+# fast build rule for target.
+thread2/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/thread2.dir/build.make 18.1/CMakeFiles/thread2.dir/build
+.PHONY : thread2/fast
+
+#=============================================================================
+# Target rules for targets named thread3
+
+# Build rule for target.
+thread3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 thread3
+.PHONY : thread3
+
+# fast build rule for target.
+thread3/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/thread3.dir/build.make 18.1/CMakeFiles/thread3.dir/build
+.PHONY : thread3/fast
+
+#=============================================================================
+# Target rules for targets named thread4
+
+# Build rule for target.
+thread4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 thread4
+.PHONY : thread4
+
+# fast build rule for target.
+thread4/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/thread4.dir/build.make 18.1/CMakeFiles/thread4.dir/build
+.PHONY : thread4/fast
+
+#=============================================================================
+# Target rules for targets named mutex
+
+# Build rule for target.
+mutex: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mutex
+.PHONY : mutex
+
+# fast build rule for target.
+mutex/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/mutex.dir/build.make 18.1/CMakeFiles/mutex.dir/build
+.PHONY : mutex/fast
+
+#=============================================================================
+# Target rules for targets named semaphore
+
+# Build rule for target.
+semaphore: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 semaphore
+.PHONY : semaphore
+
+# fast build rule for target.
+semaphore/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/semaphore.dir/build.make 18.1/CMakeFiles/semaphore.dir/build
+.PHONY : semaphore/fast
+
+#=============================================================================
+# Target rules for targets named chat_server
+
+# Build rule for target.
+chat_server: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 chat_server
+.PHONY : chat_server
+
+# fast build rule for target.
+chat_server/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/chat_server.dir/build.make 18.1/CMakeFiles/chat_server.dir/build
+.PHONY : chat_server/fast
+
+#=============================================================================
+# Target rules for targets named chat_clnt
+
+# Build rule for target.
+chat_clnt: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 chat_clnt
+.PHONY : chat_clnt
+
+# fast build rule for target.
+chat_clnt/fast:
+	$(MAKE) $(MAKESILENT) -f 18.1/CMakeFiles/chat_clnt.dir/build.make 18.1/CMakeFiles/chat_clnt.dir/build
+.PHONY : chat_clnt/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -579,12 +800,22 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... chat_clnt"
+	@echo "... chat_server"
+	@echo "... desto"
+	@echo "... echo_EPETserv"
+	@echo "... echo_EPLTserv"
 	@echo "... echo_client"
+	@echo "... echo_epollserv"
 	@echo "... echo_mpclient"
 	@echo "... echo_mpclnt"
 	@echo "... echo_mpserv"
 	@echo "... echo_mpserver"
 	@echo "... echo_selecterv"
+	@echo "... echo_stdclnt"
+	@echo "... echo_stdclnt2"
+	@echo "... echo_stdserv"
+	@echo "... echo_stdserv2"
 	@echo "... echo_storserv"
 	@echo "... file_client"
 	@echo "... file_server"
@@ -592,6 +823,7 @@ help:
 	@echo "... get_buf"
 	@echo "... gethostbyaddr"
 	@echo "... getthostbyname"
+	@echo "... mutex"
 	@echo "... news_receiver"
 	@echo "... news_receiver_brd"
 	@echo "... news_sender"
@@ -606,10 +838,16 @@ help:
 	@echo "... remove_zombie"
 	@echo "... reuseadr_eserver"
 	@echo "... select"
+	@echo "... semaphore"
 	@echo "... set_buf"
 	@echo "... sigaction"
 	@echo "... signal"
 	@echo "... sock_type"
+	@echo "... thread1"
+	@echo "... thread2"
+	@echo "... thread3"
+	@echo "... thread4"
+	@echo "... todes"
 	@echo "... wait"
 	@echo "... waitpid"
 	@echo "... writev"

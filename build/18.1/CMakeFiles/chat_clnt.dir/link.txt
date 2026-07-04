@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wno-unused-variable -Wno-unused-result -O3 -DNDEBUG CMakeFiles/chat_clnt.dir/chat_clnt.c.o -o ../bin/18.1/chat_clnt 
